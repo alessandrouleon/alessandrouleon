@@ -11,13 +11,13 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alessandrouleon&bg_color=151527&color=d6d6d6&line=3f9d39&point=999f9a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-
+<!-- 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alessandrouleon&show_icons=true&count_private=true&hide_border=true&title_color=469F2C&icon_color=469F2C&text_color=c9d1d9&bg_color=0d1117" alt="Alessandro Uleon github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrouleon&layout=compact&hide_border=true&title_color=469F2C&text_color=469F2C&bg_color=0d1117" />
 </div> 
  
- 
+  -->
 
 
 <!-- <p align="center">
