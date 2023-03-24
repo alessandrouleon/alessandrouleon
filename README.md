@@ -7,27 +7,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=469F2C&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Alessandro+Uleon;I'm+37+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
  
  
- 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alessandrouleon&bg_color=151527&color=d6d6d6&line=3f9d39&point=999f9a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-  
-
-
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alessandrouleon&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
- -->
-
-
-<!--  <div align="center"> 
-<a href="https://instagram.com/Alessandro Uleon" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:cmp.1a.alessandrouleon.alp@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/alessandrouleon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>  -->
-
- 
- 
  ### Main skills:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
